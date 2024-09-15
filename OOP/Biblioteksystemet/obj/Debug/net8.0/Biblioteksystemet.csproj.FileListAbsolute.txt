@@ -1,0 +1,14 @@
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\Biblioteksystemet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\Biblioteksystemet.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\Biblioteksystemet.AssemblyInfo.cs
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\Biblioteksystemet.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\bin\Debug\net8.0\Biblioteksystemet.exe
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\bin\Debug\net8.0\Biblioteksystemet.deps.json
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\bin\Debug\net8.0\Biblioteksystemet.runtimeconfig.json
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\bin\Debug\net8.0\Biblioteksystemet.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\bin\Debug\net8.0\Biblioteksystemet.pdb
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\Biblioteksystemet.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\refint\Biblioteksystemet.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\Biblioteksystemet.pdb
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\Biblioteksystemet.genruntimeconfig.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\Biblioteksystemet\obj\Debug\net8.0\ref\Biblioteksystemet.dll
