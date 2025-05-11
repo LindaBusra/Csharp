@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "OjFdET2B8sA/Lsej4Q1E5LIMY3HNA8APzS0wciCkTuMxQZ1AduseE267yumMzXw18zNuj3TSm0g8m5Z8z3vS3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\busra\\Desktop\\GokstadAkademiet\\OOP\\Lesson8\\Lesson8.csproj",
+=======
+  "dgSpecHash": "kteNyp+9CjAHs/M8gDc5SoVzHbGZSoMX9AZNpqkz7kQ4ocNyKz1dMNm3B5dLlb93IibToc7KuzYDKsQydApfvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\busra\\Desktop\\GokstadAkademiet\\OOP\\Lesson6\\Lesson6.csproj",
+>>>>>>> 610ce3c268940d4a0db1d31a75bb696069c0f021
+  "expectedPackageFiles": [],
+  "logs": []
+}
