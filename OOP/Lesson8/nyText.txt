@@ -1,0 +1,4 @@
+Dette er den 1. setningen.
+Dette er den 2. setningen.
+Dette er den 3. setningen.
+Dette er den 4. setningen.
