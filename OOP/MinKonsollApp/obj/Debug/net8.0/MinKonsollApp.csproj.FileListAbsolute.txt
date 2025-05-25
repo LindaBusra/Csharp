@@ -1,0 +1,14 @@
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\bin\Debug\net8.0\MinKonsollApp.exe
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\bin\Debug\net8.0\MinKonsollApp.deps.json
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\bin\Debug\net8.0\MinKonsollApp.runtimeconfig.json
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\bin\Debug\net8.0\MinKonsollApp.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\bin\Debug\net8.0\MinKonsollApp.pdb
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\MinKonsollApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\MinKonsollApp.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\MinKonsollApp.AssemblyInfo.cs
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\MinKonsollApp.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\MinKonsollApp.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\refint\MinKonsollApp.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\MinKonsollApp.pdb
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\MinKonsollApp.genruntimeconfig.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\MinKonsollApp\obj\Debug\net8.0\ref\MinKonsollApp.dll
