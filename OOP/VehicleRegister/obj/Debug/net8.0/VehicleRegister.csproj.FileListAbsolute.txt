@@ -1,0 +1,14 @@
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\bin\Debug\net8.0\VehicleRegister.exe
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\bin\Debug\net8.0\VehicleRegister.deps.json
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\bin\Debug\net8.0\VehicleRegister.runtimeconfig.json
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\bin\Debug\net8.0\VehicleRegister.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\bin\Debug\net8.0\VehicleRegister.pdb
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\VehicleRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\VehicleRegister.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\VehicleRegister.AssemblyInfo.cs
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\VehicleRegister.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\VehicleRegister.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\refint\VehicleRegister.dll
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\VehicleRegister.pdb
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\VehicleRegister.genruntimeconfig.cache
+C:\Users\busra\Desktop\GokstadAkademiet\OOP\VehicleRegister\obj\Debug\net8.0\ref\VehicleRegister.dll
