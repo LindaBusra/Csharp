@@ -1,0 +1,14 @@
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\bin\Debug\net8.0\Oppgave2.exe
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\bin\Debug\net8.0\Oppgave2.deps.json
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\bin\Debug\net8.0\Oppgave2.runtimeconfig.json
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\bin\Debug\net8.0\Oppgave2.dll
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\bin\Debug\net8.0\Oppgave2.pdb
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\Oppgave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\Oppgave2.AssemblyInfoInputs.cache
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\Oppgave2.AssemblyInfo.cs
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\Oppgave2.csproj.CoreCompileInputs.cache
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\Oppgave2.dll
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\refint\Oppgave2.dll
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\Oppgave2.pdb
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\Oppgave2.genruntimeconfig.cache
+C:\Users\busra\Downloads\Emne 4 OOP Eksamen 2024 Template\Oppgave2\obj\Debug\net8.0\ref\Oppgave2.dll
